@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-   ![](./screenshot.png)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yarenekenel/Bootstrap-Social-Proof-Section)
-- Live Site URL: [Live Site](https://yarenekenel.github.io/Bootstrap-Social-Proof-Section/)
+- Solution URL: [GitHub Repository](https://github.com/yarenekenel/Social-Proof-Section)
+- Live Site URL: [Live Site](https://yarenekenel.github.io/Social-Proof-Section/)
 
 ## My process
 
@@ -37,19 +37,18 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- [Bootstrap](https://getbootstrap.com/) - CSS framework
 - Flexbox
+- CSS Grid
 - Responsive design
 
 ### What I learned
 
-While working on this project, I practiced building a responsive layout with Bootstrap's grid system and utility classes. I learned how to adapt the layout for both mobile and desktop screens and how to combine Bootstrap with my own custom CSS to match the design as closely as possible.
+While working on this project, I practiced building a responsive layout with pure CSS. I learned how to create the staggered positioning of the rating boxes and testimonial cards, and how to adapt the layout for both mobile and desktop screens using media queries.
 
 ### Continued development
 
-In future projects, I want to improve my skills in writing accessible and semantic HTML, and build layouts with pure CSS Grid and Flexbox without relying on a framework.
+In future projects, I want to improve my skills in writing accessible and semantic HTML.
 
 ## Author
 
 - GitHub - [@yarenekenel](https://github.com/yarenekenel)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
